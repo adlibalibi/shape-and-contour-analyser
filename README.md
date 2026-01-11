@@ -25,11 +25,9 @@ This project demonstrates contour-based shape detection, feature extraction (are
 
 ---
 
-## Demo
+## Demo 
 
-![Sample Demo](sample_images/cat.jpg)  
-
-> **Live Demo:** [[Streamlit Deployment Link](#)](https://shape-and-contour-analyser-da1-22mia1063.streamlit.app/)  
+> **Live Demo:** [[Streamlit Deployment Link](https://shape-and-contour-analyser-da1-22mia1063.streamlit.app/)] 
 
 ---
 
