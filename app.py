@@ -76,7 +76,7 @@ mode = st.radio(
 image = None
 
 if mode == "Use sample image (demo)":
-    image = cv2.imread("sample images\cat.jpg")
+    image = cv2.imread("sample images/cat.jpg")
     st.info("Using preloaded sample image for demonstration.")
     if image is None:
         st.error("❌ Sample image not found. Check folder path.")
@@ -190,3 +190,4 @@ if image is not None:
 
 else:
     st.warning("Please select a mode and provide an image.")
+
