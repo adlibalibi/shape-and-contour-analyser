@@ -1,4 +1,3 @@
-# shape-and-contour-analyser
 # Shape and Contour Analyzer
 
 ## Overview
