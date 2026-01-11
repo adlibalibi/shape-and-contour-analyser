@@ -29,9 +29,7 @@ This project demonstrates contour-based shape detection, feature extraction (are
 
 ![Sample Demo](sample_images/cat.jpg)  
 
-> **Live Demo:** [Streamlit Deployment Link](#)  
-
-*(Replace with your actual Streamlit app link)*
+> **Live Demo:** [[Streamlit Deployment Link](#)](https://shape-and-contour-analyser-da1-22mia1063.streamlit.app/)  
 
 ---
 
@@ -39,5 +37,5 @@ This project demonstrates contour-based shape detection, feature extraction (are
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/shape-contour-analyzer.git
+git clone https://github.com/adlibalibi/shape-contour-analyser.git
 cd shape-contour-analyzer
